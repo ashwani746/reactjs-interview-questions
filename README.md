@@ -1,6 +1,6 @@
 # React Interview Questions & Answers
 
-> Click :✍:if you like the project and follow [@Shashi Pandey](https://www.youtube.com/results?search_query=darkjs) for technical updates. 
+> Click :✍:if you like the project and follow [@Ashwani Patel](https://www.youtube.com/results?search_query=darkjs) for technical updates. 
 
 ---
 
